@@ -2,8 +2,8 @@
 
 public class BasicExample
 {
-    public decimal Calculate(decimal first, decimal second)
+    public decimal Calculate(decimal firstNumber, decimal secondNumber)
     {
-        return first + second;
+        return firstNumber / secondNumber;
     }
 }
